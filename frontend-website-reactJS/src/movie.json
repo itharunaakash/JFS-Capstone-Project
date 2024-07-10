@@ -1,0 +1,43 @@
+[{
+    "name": "Money Heist",
+    "imdb": 9.8,
+    "date": "2020",
+    "sposter": "img/money heist.jpg",
+    "bposter": "img/money heist.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "money heist.html",
+    "trailer": "money heist trailer.mp4",
+    "low": "video/money heist 480ph.mp4",
+    "medium": "video/money heist 720ph.mp4",
+    "high": "video/money heist 1080ph.mp4"
+    
+},{
+    "name": "The Boys",
+    "imdb": 9.5,
+    "date": "2022",
+    "sposter": "img/the boys.jpg",
+    "bposter": "img/the boys.jpg",
+    "genre": "Action",
+    "type": "series",
+    "url": "the boys.html",
+    "trailer": "the boys trailer.mp4",
+    "low": "video/the boys 480ph.mp4",
+    "medium": "video/the boys  720ph.mp4",
+    "high": "video/the boys  1080ph.mp4"
+
+},{
+    "name": "Avengers: Endgame",
+    "imdb": 9.6,
+    "date": "2019",
+    "sposter": "img/avengers: endgame.jpg",
+    "bposter": "img/avengers: endgame.jpg",
+    "genre": "Action",
+    "type": "movie",
+    "url": "avengers: endgame.html",
+    "trailer": "avengers: endgame trailer.mp4",
+    "low": "video/avengers: endgame 480ph.mp4",
+    "medium": "video/avengers: endgame  720ph.mp4",
+    "high": "video/avengers: endgame  1080ph.mp4"
+
+}]
