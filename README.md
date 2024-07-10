@@ -2,20 +2,6 @@
 
 Welcome to the Movie Review App repository! This full-stack application is built using Java Spring Boot for the backend API and ReactJS for the frontend user interface. The backend utilizes MongoDB Atlas cloud as the database to store and manage movie data and user reviews.
 
-## Demo:
-#### Desktop View
-![image](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/assets/65951872/3c1a2734-880d-4bd1-8259-6c9933487fb3)
-#### Mobile View:
-Mobile Responsive
-
-![image](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/assets/65951872/3150c436-62cf-44a7-9399-f056ab6e0ec8)
-#### Writing Reviews:
-![image](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/assets/65951872/4d2264de-a891-4e51-a63a-5f11fb2acc59)
-
-### Watch Vides Fetched From Youtube and Write reviews:
-![image](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/assets/65951872/4c687d94-913d-4e87-99be-3b1cb49fc497)
-
-## Top Features
 
 - **User Authentication**: Secure user authentication system to allow users to create accounts, log in, and manage their profiles.
 - **Browse Movies**: Users can explore a vast collection of movies with detailed information.
@@ -29,8 +15,7 @@ Mobile Responsive
 ### Backend (Java Spring Boot)
 
 1. **Clone the repository:**
- 
-git clone [https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs.git](https://github.com/SiddheshKukade/Movie-review-full-stack-java-spring-boot-reactjs/edit/master/README.md)
+
  
 
 2. **Navigate to the backend directory:**
